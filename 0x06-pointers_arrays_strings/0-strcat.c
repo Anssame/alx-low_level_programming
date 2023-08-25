@@ -1,4 +1,5 @@
- /*
+#include "main.h" 
+/*
  *@dest:pointers to destination input
  *@src:pointer to source input 
  *
