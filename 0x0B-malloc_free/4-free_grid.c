@@ -1,5 +1,3 @@
-
-16 lines (14 loc) · 251 Bytes
 #include "main.h"
 #include <stdlib.h>
 
